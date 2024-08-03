@@ -1,0 +1,21 @@
+.top-nav-bar {
+    background-color: #333; /* Dark background */
+    color: #fff; /* White text color */
+    padding: 10px 0; /* Smaller padding */
+    font-size: 1.0rem; /* Smaller font size */
+}
+
+.top-contact-info {
+    margin-right: 20px; /* Space between phone and email */
+    display: inline-block; /* Align icons and text inline */
+}
+
+.top-nav-link {
+    margin-left: 20px; /* Space between links */
+    color: #f7c600; /* Yellow color for links */
+    text-decoration: none; /* Remove underline from links */
+}
+
+.icon-phone, .icon-envelope {
+    margin-right: 5px; /* Space between icon and text */
+}
